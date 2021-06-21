@@ -1,0 +1,15 @@
+,num_layers,add_self_loops,use_pairnorm,drop_edge,activation,undirected,best_acc
+0,2,True,False,1.0,relu,False,0.5980204343795776
+1,4,True,False,1.0,relu,False,0.5462962985038757
+2,6,True,False,1.0,relu,False,0.524904191493988
+3,2,False,False,1.0,relu,False,0.2953384518623352
+4,2,True,True,1.0,relu,False,0.5332056283950806
+5,4,True,True,1.0,relu,False,0.3611111044883728
+6,6,True,True,1.0,relu,False,0.3499361574649811
+7,2,True,False,0.6,relu,False,0.6127075552940369
+8,4,True,False,0.6,relu,False,0.5909961462020874
+9,2,True,False,1.0,tanh,False,0.5893997550010681
+10,2,True,False,1.0,leaky_relu,False,0.5865261554718018
+11,2,True,False,1.0,relu,True,0.6356960535049438
+12,4,True,True,1.0,relu,True,0.5287356376647949
+13,4,True,False,0.8,relu,True,0.6529374122619629
